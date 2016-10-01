@@ -1,2 +1,2 @@
 text file 
-new line
+first line
